@@ -59,10 +59,10 @@
 
 //JSON
 //as an object->
-{
-    "name":"hitesh",
-    "coursename":"js in hindi" 
-}
+// {
+//     "name":"hitesh",
+//     "coursename":"js in hindi" 
+// }
 
 //as an array of object
 [
